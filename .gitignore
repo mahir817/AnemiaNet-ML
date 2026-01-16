@@ -1,3 +1,5 @@
 # Ignore an entire folder
 data/processed/01_basic_cleaned.csv
 data/raw/
+data/processed/feature_reduced.csv
+data/processed/feature_reduced_2.csv
