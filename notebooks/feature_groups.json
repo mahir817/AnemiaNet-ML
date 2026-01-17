@@ -1,0 +1,44 @@
+{
+    "numeric": [
+        "age",
+        "household_size",
+        "age_first_marriage",
+        "living_children",
+        "years_schooling",
+        "time_to_water",
+        "altitude",
+        "bmi"
+    ],
+    "ordinal": [
+        "education_level",
+        "wealth_index",
+        "freq_newspaper",
+        "freq_radio",
+        "freq_tv"
+    ],
+    "nominal": [
+        "marital_status",
+        "residence",
+        "region",
+        "floor_material",
+        "roof_material",
+        "wall_material",
+        "cooking_fuel",
+        "water_source",
+        "toilet_type",
+        "contraceptive_method"
+    ],
+    "binary": [
+        "employment_status",
+        "has_electricity",
+        "has_tv",
+        "has_telephone",
+        "is_pregnant",
+        "is_breastfeeding",
+        "shared_toilet"
+    ],
+    "target": [
+        "anemia",
+        "hb"
+    ]
+}
